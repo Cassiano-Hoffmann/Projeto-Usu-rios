@@ -3,6 +3,7 @@
 Este é um projeto completo de um sistema de usuários desenvolvido em HTML5, CSS3 e JavaScript. O sistema oferece diversas funcionalidades, incluindo cadastro, exclusão, edição e a capacidade de importar imagens para os perfis dos usuários.
 
 # Imagem
+![Usuários](https://github.com/Cassiano-Hoffmann/Projeto-Usu-rios/assets/117099774/cab0c7df-34b5-48b6-9e3a-34527e468a4f)
 
 # Funcionalidades
 1. Cadastro de Usuários

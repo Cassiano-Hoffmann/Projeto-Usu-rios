@@ -34,7 +34,7 @@ Clone este repositório em seu ambiente local.
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Cassiano-Hoffmann/Projeto-Usu-rios.git
 Abra o arquivo index.html no seu navegador preferido.
 
 Explore as diferentes funcionalidades do sistema.
